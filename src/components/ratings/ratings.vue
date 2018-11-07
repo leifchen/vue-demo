@@ -1,7 +1,7 @@
 <template>
-<div>
-    Ratings and so on...
-</div>
+    <div>
+        Ratings and so on...
+    </div>
 </template>
 
 <script>

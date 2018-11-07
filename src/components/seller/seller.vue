@@ -1,7 +1,7 @@
 <template>
-<div>
-    Detail about seller.
-</div>
+    <div>
+        Detail about seller.
+    </div>
 </template>
 
 <script>
